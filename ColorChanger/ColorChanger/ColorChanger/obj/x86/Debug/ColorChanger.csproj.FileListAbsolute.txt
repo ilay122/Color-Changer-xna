@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\obj\x86\Debug\ColorChanger.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Debug\ColorChanger.exe
+c:\users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Debug\ColorChanger.pdb
+c:\users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\obj\x86\Debug\ColorChanger.exe
+c:\users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\obj\x86\Debug\ColorChanger.pdb
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Debug\Content\data\blocks.xnb
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Debug\Content\data\maps\level1.txt
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Debug\Content\data\arr.xnb
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Debug\Content\data\defaultfont.xnb
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Debug\Content\data\boldfont.xnb
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Debug\Content\data\maps\level2.txt

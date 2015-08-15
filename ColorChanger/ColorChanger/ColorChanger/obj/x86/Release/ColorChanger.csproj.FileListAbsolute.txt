@@ -1,0 +1,17 @@
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Release\Content\data\blocks.xnb
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Release\ColorChanger.exe
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Release\ColorChanger.pdb
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\obj\x86\Release\ColorChanger.exe
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\obj\x86\Release\ColorChanger.pdb
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Release\Content\data\arr.xnb
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Release\Content\data\defaultfont.xnb
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Release\Content\data\boldfont.xnb
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Release\Content\data\maps\level1.txt
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Release\Content\data\maps\level2.txt
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\obj\x86\Release\ColorChanger.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Release\Content\data\maps\level3.txt
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Release\Content\data\maps\level5.txt
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Release\Content\data\maps\level6.txt
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Release\Content\data\maps\level7.txt
+C:\Users\user\documents\visual studio 2013\Projects\ColorChanger\ColorChanger\ColorChanger\bin\x86\Release\Content\data\maps\level4.txt

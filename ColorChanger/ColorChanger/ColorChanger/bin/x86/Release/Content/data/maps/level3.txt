@@ -1,0 +1,7 @@
+
+
+        r       b       g
+        r       b       g
+        r       b       g
+        r       b       g
+rrrrrrrrbbbbbbbbggggggggrrrrrrrrrrrr
